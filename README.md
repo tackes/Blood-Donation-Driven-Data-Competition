@@ -1,8 +1,11 @@
 # Blood-Donation-Driven-Data-Competition
-#Author: Jeff Tackes
-#Project: Predict 454 Advanced Modeling
-#Northwestern University
-#Feburary 2018
+Author: Jeff Tackes
+
+Project: Predict 454 Advanced Modeling
+
+Northwestern University
+
+Feburary 2018
 
 Predicting Blood Donations - DrivenData Competition
 
